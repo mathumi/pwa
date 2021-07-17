@@ -8,8 +8,8 @@ self.addEventListener('install', (e) => {
         './app.js',
         './speakers.json',
         './schedule.json',
-        './img/icon-72x72.png',
-        './img/icon-128x128.png',
+        './img/icons/icon-72x72.png',
+        './img/icons/icon-128x128.png',
       ])),
     );
   });
