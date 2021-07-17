@@ -9,6 +9,7 @@ self.addEventListener('install', (e) => {
         './schedule.json',
         './img/icons/icon-72x72.png',
         './img/icons/icon-128x128.png',
+        'https://cnstatic.devcb.in/static/app-static-assets/cb-vue/cb-vue-dev-test-b-v1/service-worker.js'
       ])),
     );
   });
